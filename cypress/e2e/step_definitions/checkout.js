@@ -4,7 +4,7 @@ import {
     Then,
   } from "@badeball/cypress-cucumber-preprocessor";
 import { homePage } from "@pages/HomePage";
-  import {loginPage} from '@pages/LoginPage'
+import {loginPage} from '@pages/LoginPage'
 import { productsDetailsPage } from "@pages/ProductsDetailspage";
 import { productsPage } from "@pages/ProductsPage";
 import { checkOutPage } from "@pages/checkOutPage";
